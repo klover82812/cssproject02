@@ -7,7 +7,6 @@
     float: left;
 }
 .header h1 a{
-	background-image: url(../images/logo.png);
 	width: 182px;
 	height: 36px;
 	display: block;
@@ -38,3 +37,4 @@
 .menu li a:hover{
 	color: #08ac86;
 	border-bottom: 8px solid #00cc99;
+}
