@@ -1,40 +1,5 @@
-.header{
-    background: #747374;
-    width: 1024px;
-	height: 70px;
-}
-.header h1{
-    float: left;
-}
-.header h1 a{
-	width: 182px;
-	height: 36px;
-	display: block;
-	text-indent: 101%;
-	white-space: nowrap;
-	overflow: hidden;
-	margin-top: 20px;
-	margin-left: 40px;
-}
-.header ul{
-	float: right;
-	display: flex;
-	width: 200px;
-	justify-content: space-between;
-	align-items: center;
-	padding-top: 30px;
-	padding-right: 50px;
-}
-.menu li a{
-	text-decoration: none;
-	color: aliceblue;
-	font-family:Verdana, Geneva, Tahoma, sans-serif;
-	padding-bottom: 15px;
-	border-bottom:8px solid transparent;
-	padding-left: 15px;
-	padding-right: 15px;
-}
-.menu li a:hover{
-	color: #08ac86;
-	border-bottom: 8px solid #00cc99;
+a{
+    color: aquamarine;
+    font-size: large;
+    display: block;
 }
